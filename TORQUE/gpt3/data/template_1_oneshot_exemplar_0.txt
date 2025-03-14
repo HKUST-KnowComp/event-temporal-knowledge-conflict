@@ -1,0 +1,3 @@
+Q: What happened prior to the public security bureau official speaking?, select none or several from {said, were, say, taken} 
+A public security bureau official said the police were unable to comment on the statement . But Shanghai police did say that on March 24 they had taken similar action against Bishop Joseph Fan Zhongliang , coadjutor of the underground Roman Catholic Church .
+A: were, taken

@@ -1,0 +1,143 @@
+Given the context:
+In addition, they will receive stock in the reorganized company, which will be named Ranger Industries Inc. After these payments, about $225,000 will be available for the 20 million common shares outstanding. The Avon, Conn., company's stock hit a high in 1983 after it unveiled its Adam home computer, but the product was plagued with glitches and the company's fortunes plunged. But Coleco bounced back with the introduction of the Cabbage Patch dolls, whose sales hit $600 million in 1985. But as the craze died, Coleco failed to come up with another winner and filed for bankruptcy-law protection in July 1988.
+
+Q: What's the temporal relation between the event "hit" and "bounced"? 
+Choice A: hit happens before bounced. 
+Choice B: hit happens after bounced. 
+Choice C: hit happens during bounced. 
+Choice D: unknown. 
+Answer only with A, B, C, or D. 
+
+A: Choice A
+
+Given the context:
+The New York Times said in an editorial on Saturday, April 25: The Supreme Court took a detour this week from the core principle of gender fairness it vindicated two years ago in its ruling invalidating the use of sexual stereotypes to justify denying women admission to the Virginia Military Institute. By a 6-3 vote, the court upheld a discriminatory immigration law that gives a child born overseas to an unmarried American woman a better chance at citizenship than a child born to an unmarried American man. Under the statute, a child born abroad to an unwed American mother is automatically considered a U.S. citizen.
+
+Q: What's the temporal relation between the event "vindicated" and "upheld"? 
+Choice A: vindicated happens before upheld. 
+Choice B: vindicated happens after upheld. 
+Choice C: vindicated happens during upheld. 
+Choice D: unknown. 
+Answer only with A, B, C, or D. 
+
+A: Choice A
+
+Given the context:
+Even excluding the charge, however, net fell 5%. In addition, GM's North American vehicle production fell 8.4% from a year ago, which hurt Delco Electronic's earnings, a company spokesman said. That decline was reflected in revenue for the GM Hughes unit, which edged down to $2.58 billion from $2.63 billion.
+
+Q: What's the temporal relation between the event "fell" and "hurt"? 
+Choice A: fell happens before hurt. 
+Choice B: fell happens after hurt. 
+Choice C: fell happens during hurt. 
+Choice D: unknown. 
+Answer only with A, B, C, or D. 
+
+A: Choice A
+
+Given the context:
+Finally, when Iraq failed to respond to the U.S. ultimatum, Mr. Bush let the ground offensive begin as previously planned Saturday night. The attack was lightning quick, as allied forces punched through tall sand berms on the border and pushed forward into Iraq and Kuwait. U.S. Marines were said to have breached troublesome mine fields along the Iraqi lines but Pentagon officials said no amphibious assault on Kuwait's beaches had begun. Long columns of Iraqi prisoners of war could be seen trudging through the desert toward the allied rear.
+
+Q: What's the temporal relation between the event "punched" and "breached"? 
+Choice A: punched happens before breached. 
+Choice B: punched happens after breached. 
+Choice C: punched happens during breached. 
+Choice D: unknown. 
+Answer only with A, B, C, or D. 
+
+A: Choice B
+
+Given the context:
+``Nationalists in the north are not a minority in someone else's country. We are Irish citizens, living in our own country,'' Adams said, adding: ``Nationalists want to move towards Irish unity and see this process as a bridge in that direction.'' But the north's pro-British Protestant majority is bitterly opposed to uniting Ireland and instead wants a strong government for Northern Ireland, which has been ruled directly by London since 1972. Northern Ireland's biggest Protestant party, the Ulster Unionists, is threatening to push for Sinn Fein's expulsion once again.
+
+Q: What's the temporal relation between the event "adding" and "opposed"? 
+Choice A: adding happens before opposed. 
+Choice B: adding happens after opposed. 
+Choice C: adding happens during opposed. 
+Choice D: unknown. 
+Answer only with A, B, C, or D. 
+
+A: Choice B
+
+Given the context:
+In addition to the estimated 45,000 Marines to ultimately be part of Operation Desert Shield, Stealth fighter planes and the aircraft carrier John F. Kennedy are also headed to Saudi Arabia to protect it from Iraqi expansionism. In Washington, Pentagon spokesman Pete Williams said Iraq has continued to increase its armed forces in Kuwait and they now number about 160,000. Saddam has been under international quarantine since his Aug. 2 power-grab, or what he calls an ``eternal merger'' with Kuwait. In a long verbal attack read on Iraqi television Thursday, Saddam repeatedly called Bush ``a liar'' and said a shooting war could produce body bags courtesy of Baghdad.
+
+Q: What's the temporal relation between the event "said" and "calls"? 
+Choice A: said happens before calls. 
+Choice B: said happens after calls. 
+Choice C: said happens during calls. 
+Choice D: unknown. 
+Answer only with A, B, C, or D. 
+
+A: Choice B
+
+Given the context:
+Xerox Corp. has told employees in its Crum amp Forster personal insurance operations that it is laying off about 300 people, or 25% of the staff. A spokeswoman for Crum amp Forster said employees were told early this week that numerous staff functions for the personal insurance lines were going to be centralized as a cost-cutting move.
+
+Q: What's the temporal relation between the event "told" and "laying"? 
+Choice A: told happens before laying. 
+Choice B: told happens after laying. 
+Choice C: told happens during laying. 
+Choice D: unknown. 
+Answer only with A, B, C, or D. 
+
+A: Choice C
+
+Given the context:
+Reed International PLC said that net income for the six months ended Oct. 1 slipped 5% to #89.7 million ($141.9 million), or 16 pence a share, from #94.8 million ($149.9 million), or 17.3 pence a share. The British paper, packaging and publishing concern, said profit from continuing lines fell 10% to #118 million from #130.6 million. While there were no one-time gains or losses in the latest period, there was a one-time gain of #18 million in the 1988 period.
+
+Q: What's the temporal relation between the event "ended" and "said"? 
+Choice A: ended happens before said. 
+Choice B: ended happens after said. 
+Choice C: ended happens during said. 
+Choice D: unknown. 
+Answer only with A, B, C, or D. 
+
+A: Choice C
+
+Given the context:
+His appointment to that post, which has senior administrative, staff and policy responsibilities, followed a several-year tenure as Reuters's editor in chief. No successor was named, and Mr. Reupke's duties will be split among three other senior Reuters executives, the company said. In a telephone interview, Mr. Reupke said his departure was for "personal reasons," which he declined to specify. "There is no business reason for my departure," nor any disagreement over policy, he added.
+
+Q: What's the temporal relation between the event "split" and "said"? 
+Choice A: split happens before said. 
+Choice B: split happens after said. 
+Choice C: split happens during said. 
+Choice D: unknown. 
+Answer only with A, B, C, or D. 
+
+A: Choice C
+
+Given the context:
+The debt, estimated at $4.7 billion, could mortgage the cellular company's future earning power in order to placate some LIN holders in the short term. The plan still calls for LIN to combine its cellular telephone properties with BellSouth's and to spin off its broadcasting operations. But under new terms of the agreement, announced Friday, LIN holders would receive a special cash dividend of $42 a share, representing a payout of about $2.23 billion, shortly before the proposed merger. LIN said it expects to borrow the money to pay the dividend, but commitments from banks still haven't been obtained.
+
+Q: What's the temporal relation between the event "calls" and "announced"? 
+Choice A: calls happens before announced. 
+Choice B: calls happens after announced. 
+Choice C: calls happens during announced. 
+Choice D: unknown. 
+Answer only with A, B, C, or D. 
+
+A: Choice D
+
+Given the context:
+And so, people are increasingly enthusiastic by today, Cuban television, which clings to the Communist Party line, actually began to promote its papal coverage. Today, hundreds of people from the US began to arrive, including some Cuban Americans who left here when Castro came to power and are returning to Havana for the first time. The Pope's visit is important, but they are also coming home. This is quite an extraordinary story unfolding here.
+
+Q: What's the temporal relation between the event "returning" and "coming"? 
+Choice A: returning happens before coming. 
+Choice B: returning happens after coming. 
+Choice C: returning happens during coming. 
+Choice D: unknown. 
+Answer only with A, B, C, or D. 
+
+A: Choice D
+
+Given the context:
+Earlier this month, the company said it expected to break even for the quarter on sales of $530 million. In a statement, Scott McNealy, Sun's chief executive officer, said the company's performance was hampered by problems tied to the introduction of a major new family of computers in April. One of those new computers, called Sparcstation 1, accounted for nearly half of the 28,000 systems Sun shipped in the quarter, he said. More than two-thirds of the systems shipped, meanwhile, were products introduced in April.
+
+Q: What's the temporal relation between the event "hampered" and "accounted"? 
+Choice A: hampered happens before accounted. 
+Choice B: hampered happens after accounted. 
+Choice C: hampered happens during accounted. 
+Choice D: unknown. 
+Answer only with A, B, C, or D. 
+
+A: Choice D

@@ -1,0 +1,8 @@
+Given the context Norwood is controlled by Daniel L. Barnett and Paul A. Reese , both officers of Boston-based Oasis Capital Management Inc. , a small Boston money management firm . Also involved in the group is Robert F. Angelo , formerly Phoenix 's senior vice president , field operations , who left Phoenix at the beginning of October ., What is happening now?, select none or several from {controlled, involved, left
+A: controlled
+
+Given the context Danai , 61 , who died Monday , was appointed in early 1995 as the first Thai ambassdor to the WTO , where he chaired the agriculture committee before retiring at age 60 . Before working at the WTO , he held posts as deputy permanent secretary of the commerce ministry and director-general of the foreign ministry 's economic department ., What happened before Danai held posts as deputy permanent secretary and director-general?, select none or several from {died, appointed, chaired, retiring, working, held
+A: none
+
+Given the context Otherwise , when the mood turned sour in Myanmar the generals would simply retrace their steps and haul all their opponents back to jail . @ Burma ( Myanmar ) has a habit of recycling political prisoners ., What event has already finished?, select none or several from {mood, turned, retrace, steps, haul, habit, recycling
+A: mood, turned

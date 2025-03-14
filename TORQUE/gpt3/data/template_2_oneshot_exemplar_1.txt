@@ -1,0 +1,2 @@
+Given the context Norwood is controlled by Daniel L. Barnett and Paul A. Reese , both officers of Boston-based Oasis Capital Management Inc. , a small Boston money management firm . Also involved in the group is Robert F. Angelo , formerly Phoenix 's senior vice president , field operations , who left Phoenix at the beginning of October ., What is happening now?, select none or several from {controlled, involved, left
+A: controlled

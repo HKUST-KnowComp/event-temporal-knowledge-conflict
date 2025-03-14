@@ -1,0 +1,47 @@
+Given the context:
+In addition, they will receive stock in the reorganized company, which will be named Ranger Industries Inc. After these payments, about $225,000 will be available for the 20 million common shares outstanding. The Avon, Conn., company's stock hit a high in 1983 after it unveiled its Adam home computer, but the product was plagued with glitches and the company's fortunes plunged. But Coleco bounced back with the introduction of the Cabbage Patch dolls, whose sales hit $600 million in 1985. But as the craze died, Coleco failed to come up with another winner and filed for bankruptcy-law protection in July 1988.
+
+Q: What's the temporal relation between the event "hit" and "bounced"? 
+Choice A: hit happens before bounced. 
+Choice B: hit happens after bounced. 
+Choice C: hit happens during bounced. 
+Choice D: unknown. 
+Answer only with A, B, C, or D. 
+
+A: Choice A
+
+Given the context:
+Billions of investors' dollars are pouring out of the nation's junk-bond mutual funds, undermining a pillar of support in the already reeling junk market. Last week alone, an eye-popping $1.6 billion flowed out of the junk funds, or nearly 5% of their total assets, according to estimates by Dalbar Financial Services Inc., a Boston research firm. In the past two months the nation's 88 junk funds have lost a total of about $6 billion -- more than 15% of assets -- through sales or transfers of junk-fund shares, Dalbar says.
+
+Q: What's the temporal relation between the event "undermining" and "flowed"? 
+Choice A: undermining happens before flowed. 
+Choice B: undermining happens after flowed. 
+Choice C: undermining happens during flowed. 
+Choice D: unknown. 
+Answer only with A, B, C, or D. 
+
+A: Choice B
+
+Given the context:
+The thrift announced the plan Aug. 21. Among other reasons, high fees regulators imposed on certain transfers of thrift deposits to commercial banks "substantially altered the economics of the transaction for both parties," Poughkeepsie said. Additionally, the bank is increasing its loan-loss reserves for the third quarter by $8.5 million before taxes. In the year-earlier third quarter, Poughkeepsie Savings had net income of $2.8 million, or 77 cents a share.
+
+Q: What's the temporal relation between the event "said" and "increasing"? 
+Choice A: said happens before increasing. 
+Choice B: said happens after increasing. 
+Choice C: said happens during increasing. 
+Choice D: unknown. 
+Answer only with A, B, C, or D. 
+
+A: Choice C
+
+Given the context:
+Amir, 27, is serving a life sentence for the November 1995 assassination of Rabin at a Tel Aviv peace rally. Newspaper reports have said Amir was infatuated with Har-Shefi and may have been trying to impress her by killing the prime minister. Har-Shefi acknowledged she told police interrogators that Rabin was a traitor and that she prayed for him to have a heart attack and die. She said Rabin's murder was ``a black stain on Israel,'' Israel radio and Israel army radio reported.
+
+Q: What's the temporal relation between the event "killing" and "told"? 
+Choice A: killing happens before told. 
+Choice B: killing happens after told. 
+Choice C: killing happens during told. 
+Choice D: unknown. 
+Answer only with A, B, C, or D. 
+
+A: Choice D

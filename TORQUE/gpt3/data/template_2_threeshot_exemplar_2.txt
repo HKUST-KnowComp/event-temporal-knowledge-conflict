@@ -1,0 +1,8 @@
+Given the context About 59 percent of eligible Iraqis cast ballots last January for an interim parliament , and 64 percent voted in the October 15 referendum on a new constitution . The US envoy said that unlike the runup to January 's ballot , @ the level of violence has dropped my almost any measure over the past few days and we hope that that trend continues . @, What will happen in the future?, select none or several from {cast, ballots, voted, referendum, said, runup, ballot, violence, dropped, hope, trend, continues
+A: none
+
+Given the context The spokesman said seven baskets of marijuana were hidden in the hull of the vessel when it berthed in the Freeport of Monrovia . The vessel had travelled directly to Monrovia from Freetown carrying food and other logistics ., What will happen in the future?, select none or several from {said, hidden, berthed, travelled, carrying
+A: none
+
+Given the context On the ensuing possession , Bryant fouled out of the game , committing a charge on a wild drive to the basket but leaving with the third-highest scoring game of his career . Last season , Bryant scored a franchise-record 81 points against Toronto and 62 points in a game against Dallas ., What occurred after Bryant scored a franchise-record 81 points?, select none or several from {fouled, game, committing, leaving, game, season, scored, game
+A: fouled, game, committing, leaving, game

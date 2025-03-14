@@ -1,0 +1,11 @@
+Q: What happened prior to the public security bureau official speaking?, select none or several from {said, were, say, taken} 
+A public security bureau official said the police were unable to comment on the statement . But Shanghai police did say that on March 24 they had taken similar action against Bishop Joseph Fan Zhongliang , coadjutor of the underground Roman Catholic Church .
+A: were, taken
+
+Q: What will happen in the future?, select none or several from {went, evading, manhunt, made, held} 
+Ranariddh 's loyalists , including Nhek Bunchhay , his top military commander , went into hiding or fled the capital . Nhek Bunchhay , evading an intensive manhunt , made his way to O'Smach , the last major outpost held by Ranariddh 's forces .
+A: none
+
+Q: What began before Australia qualified?, select none or several from {described, qualified, finals, guided} 
+Zico described Australia , who have qualified for the finals for the first time in 32 years , as a @ highly motivated team @ under Dutch coach Guus Hiddink . @ They are well guided .
+A: guided
